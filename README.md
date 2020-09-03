@@ -11,4 +11,9 @@ Communities para engenharia de tráfego:
 
 Obs.: O local pref padrão é 100
 
+Communities informativas:
 
+	28585:20        Trânsitos
+	28585:30        Clientes
+	28585:40        IXs
+	
